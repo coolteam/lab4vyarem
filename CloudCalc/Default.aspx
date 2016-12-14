@@ -17,7 +17,7 @@
     <form id="form1"  runat="server">
     <div>
         <div class="col s12 m7">
-            <h2 class="header">Хмарковий калькулятор</h2>
+            <h2 class="header">Хмарковий калькулятор GitHub version</h2>
             <div class="card horizontal">
                 <div class="card-image">
                     <img src="http://lorempixel.com/output/technics-h-c-100-190-7.jpg">
